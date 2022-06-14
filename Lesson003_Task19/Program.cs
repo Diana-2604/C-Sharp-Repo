@@ -6,13 +6,11 @@
 // 12821 -> да
 
 Console.WriteLine("Please enter a five-digit number: ");
-int num = int.Parse(Console.ReadLine());
+string numInput = Console.ReadLine();
 
-string str = num.ToString(); // преобразовать число в строку - массив
+Console.WriteLine("Is " + $"{numInput}" + " a palindrome?");
 
-Console.WriteLine("Is " + $"{num}" + " a palindrome?");
-
-if (str[0] == str[4] && str[1] == str[3])
+if (numInput[0] == numInput[4] && numInput[1] == numInput[3])
 {
     Console.WriteLine("Yes");
 }
