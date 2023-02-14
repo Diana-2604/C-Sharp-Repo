@@ -1,2 +1,2 @@
-# Homework-Repo
-C# Seminars on GeekBrains
+# C# Repository
+C# Lessons & Seminars on GeekBrains
