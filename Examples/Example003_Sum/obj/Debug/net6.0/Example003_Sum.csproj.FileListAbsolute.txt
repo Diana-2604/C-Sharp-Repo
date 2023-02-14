@@ -1,0 +1,15 @@
+/Users/diana/Documents/Examples_C#/Example003_Sum/bin/Debug/net6.0/Example003_Sum
+/Users/diana/Documents/Examples_C#/Example003_Sum/bin/Debug/net6.0/Example003_Sum.deps.json
+/Users/diana/Documents/Examples_C#/Example003_Sum/bin/Debug/net6.0/Example003_Sum.runtimeconfig.json
+/Users/diana/Documents/Examples_C#/Example003_Sum/bin/Debug/net6.0/Example003_Sum.dll
+/Users/diana/Documents/Examples_C#/Example003_Sum/bin/Debug/net6.0/Example003_Sum.pdb
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.AssemblyReference.cache
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfoInputs.cache
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.AssemblyInfo.cs
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.dll
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/refint/Example003_Sum.dll
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.pdb
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/Example003_Sum.genruntimeconfig.cache
+/Users/diana/Documents/Examples_C#/Example003_Sum/obj/Debug/net6.0/ref/Example003_Sum.dll
