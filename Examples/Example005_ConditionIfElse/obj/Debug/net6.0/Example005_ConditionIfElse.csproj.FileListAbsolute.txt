@@ -1,0 +1,15 @@
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/refint/Example005_ConditionIfElse.dll
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
+/Users/diana/Documents/Examples_C#/Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
