@@ -1,0 +1,15 @@
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/bin/Debug/net6.0/Example013_SelectionSort2
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/bin/Debug/net6.0/Example013_SelectionSort2.deps.json
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/bin/Debug/net6.0/Example013_SelectionSort2.runtimeconfig.json
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/bin/Debug/net6.0/Example013_SelectionSort2.dll
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/bin/Debug/net6.0/Example013_SelectionSort2.pdb
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.csproj.AssemblyReference.cache
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.AssemblyInfoInputs.cache
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.AssemblyInfo.cs
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.csproj.CoreCompileInputs.cache
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.dll
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/refint/Example013_SelectionSort2.dll
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.pdb
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/Example013_SelectionSort2.genruntimeconfig.cache
+/Users/diana/Documents/Examples_C#/Example013_SelectionSort2/obj/Debug/net6.0/ref/Example013_SelectionSort2.dll

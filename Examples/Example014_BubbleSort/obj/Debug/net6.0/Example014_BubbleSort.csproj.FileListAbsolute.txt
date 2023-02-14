@@ -1,0 +1,15 @@
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/bin/Debug/net6.0/Example014_BubbleSort
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/bin/Debug/net6.0/Example014_BubbleSort.deps.json
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/bin/Debug/net6.0/Example014_BubbleSort.runtimeconfig.json
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/bin/Debug/net6.0/Example014_BubbleSort.dll
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/bin/Debug/net6.0/Example014_BubbleSort.pdb
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.csproj.AssemblyReference.cache
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.AssemblyInfoInputs.cache
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.AssemblyInfo.cs
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.csproj.CoreCompileInputs.cache
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.dll
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/refint/Example014_BubbleSort.dll
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.pdb
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/Example014_BubbleSort.genruntimeconfig.cache
+/Users/diana/Documents/Examples_C#/Example014_BubbleSort/obj/Debug/net6.0/ref/Example014_BubbleSort.dll
